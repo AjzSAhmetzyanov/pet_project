@@ -6,4 +6,5 @@ aiosqlite==0.18.0
 async-timeout==4.0.2
 asynch==0.2.2
 beautifulsoup4==4.11.2
+lxml==4.9.2
 requests==2.28.2
