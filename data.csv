@@ -1,4 +1,14 @@
-user_name,user_address
-user1,address1
-user2,address2
-user3,address3
+diagonal,name,color,matrix,page
+-14%,"('Acer', 'Aspire')",3,"('A315-34-C2QH', 'черный')",3
+-13%,"('ASUS', 'Laptop')",15,"('F515MA-BR659W', 'серебристый')",2
+-38%,"('Acer', 'Aspire')",3,"('A315-56-31LP', 'черный')",5
+-15%,"('IRBIS', '15NBC1001')",синий,"('[Full', 'HD')",5
+-15%,"('IRBIS', '15NBC1001')",синий,"('[Full', 'HD')",5
+-15%,"('IRBIS', '15NBC1001')",синий,"('[Full', 'HD')",5
+-13%,"('Chuwi', 'CoreBook')",X,"('14', 'серый')",5
+-13%,"('Chuwi', 'CoreBook')",X,"('14', 'серый')",5
+-13%,"('Chuwi', 'CoreBook')",X,"('14', 'серый')",5
+-20%,"('TCL', 'Book')",14,"('Go', 'серебристый')",5
+-14%,"('Acer', 'Extensa')",15,"('EX215-31-P8S2', 'черный')",4
+-16%,"('Lenovo', 'IdeaPad')",3,"('15IGL05', 'серый')",4
+-24%,"('Irbis', '14NBC0001')",черный,"('[Full', 'HD')",4
